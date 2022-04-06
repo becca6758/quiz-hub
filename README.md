@@ -34,10 +34,10 @@ To use this application follow the directions below:
 
 ## Credits
 
-![Anthony Ditore](https://github.com/aditore): Backend - JavaScript, Handlebars
-![Jenny Sacco](https://github.com/jennyrae818): Frontend - Wireframes, Handlebars, and CSS
-![Priyanka Mary Christine](https://github.com/marycpriyanka): Backend - JavaScript, Handlebars, Databases 
-![Rebecca Yu](https://github.com/becca6758): Float - Log in, Logout, Sign out, JavaScript
+- [Anthony Ditore](https://github.com/aditore): Backend - JavaScript, Handlebars
+- [Jenny Sacco](https://github.com/jennyrae818): Frontend - Wireframes, Handlebars, and CSS
+- [Priyanka Mary Christine](https://github.com/marycpriyanka): Backend - JavaScript, Handlebars, Databases 
+- [Rebecca Yu](https://github.com/becca6758): Float - Log in, Logout, Sign out, JavaScript
 
 ## License
 
